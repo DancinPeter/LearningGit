@@ -1,2 +1,13 @@
 Something cool here
 and other stuff.
+
+git clone [link]
+git add [file.fileextension]
+git commit -m "Your message."
+
+git config user.name "Dancinpeter"
+git config user.email thompsonpe@mnstate.edu
+
+git status
+
+git commit -a -m "Your message"
