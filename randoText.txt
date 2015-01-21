@@ -11,3 +11,5 @@ git config user.email thompsonpe@mnstate.edu
 git status
 
 git commit -a -m "Your message"
+git push origin master
+get pull origin master
