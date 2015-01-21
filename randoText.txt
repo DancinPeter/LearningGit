@@ -15,3 +15,10 @@ git push origin master
 get pull origin master
 
 add --> comit --> pull --> push
+
+git branch
+	Checks what branches exist
+git branch [branch-name]
+	Creates branch
+git checkout [branch-name]
+	Goes to most current commit of [branch-name]
