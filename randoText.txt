@@ -14,7 +14,7 @@ git commit -a -m "Your message"
 git push origin master
 get pull origin master
 
-add --> comit --> pull --> push
+add --> commit --> pull --> push
 
 git branch
 	Checks what branches exist
@@ -22,3 +22,5 @@ git branch [branch-name]
 	Creates branch
 git checkout [branch-name]
 	Goes to most current commit of [branch-name]
+	
+git merge [branch-name]
